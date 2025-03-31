@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvDhuria
 - 👀 I’m interested in Wev development
-- 🌱 I’m currently learning Javascript
+
 
 
 
